@@ -1,0 +1,13 @@
+input {
+    width: 80%;
+    height: 35px;
+    border: 1px solid #2e3238;
+    padding: 3px 10px;
+    margin-bottom: 10px;
+    background-color: #343a40;
+    color: #e1eaf2;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+}

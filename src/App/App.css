@@ -1,0 +1,14 @@
+.main__master {
+  width: 70%;
+  height: auto;
+  position: absolute;
+  background-color: #3c424a;
+  margin-top: 50px;
+  text-align: center;
+  color: #e1eaf2;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+}
